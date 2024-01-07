@@ -1,0 +1,14 @@
+.iframe-container {
+    display: flex;
+}
+
+.iframe1 {
+    width: 20%;
+    height: 650px;
+    margin-right: 5px;
+}
+
+.iframe2 {
+    width: 80%;
+    height: 650px;
+}
